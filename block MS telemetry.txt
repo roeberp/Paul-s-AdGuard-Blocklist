@@ -1,4 +1,4 @@
-||data.microsoft.com^
+! ||data.microsoft.com^
 ||msftconnecttest.com^
 ||azureedge.net^
 ||activity.windows.com^
